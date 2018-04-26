@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Farshid\\PycharmProjects\\MRI3\\ROI\\FR-MRInet"
+all_model_checkpoint_paths: "C:\\Users\\Farshid\\PycharmProjects\\MRI3\\ROI\\FR-MRInet"
