@@ -57,4 +57,4 @@ model.py holds the total architectural design of the autoencoder.
 main.py is used for training and validating the model.  
 File loader.py is a helper class that helps to search and load iamges.
 
-Paper Link: https://openreview.net/pdf?id=Hke3zCtDEm
+Paper Link: [here](https://paperswithcode.com/paper/fr-mrinet-a-deep-convolutional-encoder)https://paperswithcode.com/paper/fr-mrinet-a-deep-convolutional-encoder
